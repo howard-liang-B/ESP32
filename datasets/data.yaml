@@ -1,0 +1,13 @@
+train: C:\\Users\\CYAC_35\\Desktop\\Lee ja how\\datasets\\train
+val: C:\\Users\\CYAC_35\\Desktop\\Lee ja how\\datasets\\val
+test: C:\\Users\\CYAC_35\\Desktop\\Lee ja how\\datasets\\test
+
+nc: 2 # number of class
+names: ['license-plate', 'spppp']
+
+roboflow:
+  workspace: iot-hossu
+  project: iot-ai0x8
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/iot-hossu/iot-ai0x8/dataset/2
